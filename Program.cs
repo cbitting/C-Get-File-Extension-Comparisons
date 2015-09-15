@@ -55,7 +55,7 @@ namespace fileExtensionGetTests
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds.ToString());
 
-            Console.WriteLine("done");
+            Console.WriteLine("finished");
             Console.ReadLine();
         }
     }
